@@ -9,13 +9,17 @@
 # MATCH：全匹配（一般放在最后）
 payload:
   # > DOMAIN
+    # harvey
   - DOMAIN-SUFFIX,harvey.wang
   - DOMAIN-SUFFIX,xheng.wang
+    # pakpo
   - DOMAIN,ppb.f3322.net
   - DOMAIN-SUFFIX,pakpobox.com
   - DOMAIN-SUFFIX,pakpobox.cn
   - DOMAIN-SUFFIX,pakpo.cn
+    # other
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,amazon.com
   # > IP
   - IP-CIDR,119.136.32.125/32,no-resolve
+  - IP-CIDR,114.114.114.114
