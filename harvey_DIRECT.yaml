@@ -17,5 +17,7 @@ payload:
   - DOMAIN-SUFFIX,pakpobox.com
   - DOMAIN-SUFFIX,pakpobox.cn
   - DOMAIN-SUFFIX,pakpo.cn
+    # other
+  - DOMAIN-SUFFIX,deepl.com
   # > IP
   - IP-CIDR,119.136.32.125/32,no-resolve
