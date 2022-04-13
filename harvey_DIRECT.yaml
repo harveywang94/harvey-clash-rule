@@ -20,5 +20,7 @@ payload:
     # other
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,transmissionbt.com
+  - DOMAIN-SUFFIX,m-team.cc
   # > IP
   - IP-CIDR,119.136.32.125/32,no-resolve
